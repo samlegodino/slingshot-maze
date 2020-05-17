@@ -1,2 +1,2 @@
-# slingshot-maze
-fun game like angry birds
+# staticSquare
+A static square made using Matter.js physics engine
